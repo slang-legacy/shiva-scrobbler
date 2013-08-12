@@ -44,16 +44,6 @@ A last.fm like scrobbler API made to work with shiva-server
  - Playlist.addTrack
  - Playlist.create
 
-#Tag
- - Tag.getInfo
- - Tag.getSimilar
- - Tag.getTopAlbums
- - Tag.getTopArtists
- - Tag.getTopTracks
- - Tag.getWeeklyArtistChart
- - Tag.getWeeklyChartList
- - Tag.search
-
 #Track
  - Track.ban
  - Track.getCorrection
